@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>TABLE</title>
+</head>
+<body>
+	<table border="1">
+		<tr> 
+			<td></td>
+			<td>Monday</td>
+			<td>Tuesday</td>
+			<td>Wednesday</td>
+			<td>Thursday</td>
+			<td>Friday</td>
+		</tr>
+		<tr>
+			<td>Morning</td>
+			<td>Science</td>
+			<td>English</td>
+			<td>Japanese</td>
+			<td>Mathmatics</td>
+			<td>Social Science</td>
+		</tr>
+		<tr>
+			<td>Afternoon</td>
+			<td>English</td>
+			<td>Japanese</td>
+			<td>Science</td>
+			<td>Social Science</td>
+			<td>Mathmatics</td>
+		</tr>
+	</table>
+</body>
+</html>
